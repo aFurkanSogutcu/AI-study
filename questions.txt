@@ -1,0 +1,1 @@
+if we make normalization to the inputs why we also evaluate activation function too to make value between 0 and 1 or other?
